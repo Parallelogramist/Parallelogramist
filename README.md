@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://github.com/my-github-user/Parallelogramist/blob/main/github-metrics.svg)
 
 <!--
 **Parallelogramist/Parallelogramist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
